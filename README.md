@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="[https://github.com/The-Wanderer/The-Wanderer.png](https://github.com/Iwakawa-2173/The-Wanderer/blob/main/The-Wanderer.png)" />
+<img width="1920" height="1080" alt="image" src="https://github.com/Iwakawa-2173/The-Wanderer/blob/main/The-Wanderer.png" />
 
 # The Wanderer / Скиталец
 
