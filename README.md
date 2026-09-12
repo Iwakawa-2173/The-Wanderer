@@ -78,7 +78,9 @@
 pip install pygame moderngl numpy
 python game.py
 ```
+
 Либо скачать .exe файл с вкладки релизов и сразу запустить.
+
 ---
 
 ## Философия проекта
